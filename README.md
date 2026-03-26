@@ -1,4 +1,4 @@
-# Prueba de YOLO en laptop
+# Prueba de YOLO en laptop (usando CONDA)
 
 Prueba básica de detección de objetos con **YOLO (Ultralytics)** usando una **webcam USB** en una laptop con Windows.
 

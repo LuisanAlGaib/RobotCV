@@ -29,6 +29,6 @@ Al ejecutar el programa:
 
 - se abre una ventana con la cámara,
 - se muestran las detecciones de YOLO,
-- aparece un texto indicando si se detectó una persona,
-- se muestran los FPS,
+- (Opcional): aparece un texto indicando si se detectó una persona,
+- (Opcional): se muestran los FPS,
 - y se reproduce un beep cuando la detección cumple el umbral.
